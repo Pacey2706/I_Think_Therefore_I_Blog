@@ -1,1 +1,1 @@
-web: gunicorn aqueous-wave-83183.wsgi
+web: gunicorn codestar.wsgi
