@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aqueous-wave-83183.heroku.com', 'localhost']
+ALLOWED_HOSTS = ['aqueous-wave-83183-c699ff9f13e2.herokuapp.com', 'localhost']
 
 
 # Application definition
